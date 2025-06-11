@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Around Go'
+theme = "PaperMod"
+[params]
+DateFormat = '2006, January 2'
+defaultTheme = 'dark'
+disableThemeToggle = false
+ShowReadingTime = true
