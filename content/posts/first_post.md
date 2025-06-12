@@ -2,7 +2,7 @@
 date = '2025-06-11T15:33:11+08:00'
 draft = false
 title = 'Baajgai greetings'
-tags = ['variery']
+tags = ['golang']
 +++
 ## Introduction
 
