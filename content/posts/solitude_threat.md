@@ -1,3 +1,9 @@
++++
+date = '2025-07-05T19:30:51+08:00'
+draft = false
+title = "Why The Man Who Does Not Need Anyone Is Society's Greatest Threat"
++++
+
 ## Why The Man Who Doesn't Need Anyone Is Society's Greatest Threat
 *Script from the narration of the same titled video from Youtube*
 
