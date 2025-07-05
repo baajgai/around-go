@@ -10,7 +10,7 @@ This is **a huge bold** text, and this is *emphasized* text.
 
 ## What is Go language (Golang)? How to become an expert?
 
-Recently started learning a new programming language Golang. 
+Recently learning a new programming language Golang. 
 
 `echo "hello world"`
 - list item
@@ -23,6 +23,6 @@ Recently started learning a new programming language Golang.
 int main(){}
 ```
 Sample youtube video attachment below...
-
+text
 {{< youtube 0RKpf3rK57I >}}
 
