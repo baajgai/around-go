@@ -4,8 +4,7 @@ draft = false
 title = "Why The Man Who Does Not Need Anyone Is Society's Greatest Threat"
 +++
 
-## Why The Man Who Doesn't Need Anyone Is Society's Greatest Threat
-*Script from the narration of the same titled video from Youtube*
+*Script from the narration of the same titled video on Youtube*
 
 Picture this, there is a man sitting alone at a coffee shop. Everyone else is frantically scrolling through their phones, desperately seeking validation from strangers on the internet. The couples around him are taking selfies, the groups are gossiping, the lone wolves are swiping through dating apps like their lives depend on it. But this man, he's got earbuds in, listening to audiobook about philosophy while everyone else numbs their minds with TikTok. 
 He's different he's not lonely he's not desperate. He's not seeking anything from anyone. 
@@ -27,4 +26,4 @@ The Marcus Aurelius Method: Strength through solitude.
 Marcus Aurelius had a practice that would seem strange to most people today. Every evening he would reflect on his day, write down his thoughts and engage in what he called the discipline of desire. He would aks himself: What did I want today that I didn't need. What did I fear that was outisde my control. What did I do to seek approval that compromised my values. 
 This wasn't just journaling this was training. He was building psychological muscle. See, Marcus understood something profound. The person who knows themselves deeply can't be fooled by the shallow games others play. 
 
- PART 1 END...
+ END OF PART 1...
